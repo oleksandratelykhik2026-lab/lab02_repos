@@ -7,7 +7,7 @@ int main()
 {
     double a, z1, z2;
 
-    cout << "a= ";
+    cout << "Введіть a= ";
     cin >> a;
 
     z1 = (cos(a) + sin(a)) / (cos(a) - sin(a));
